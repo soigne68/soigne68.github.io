@@ -13,16 +13,15 @@
             "id": "https://soigne68.github.io/test-post.html",
             "url": "https://soigne68.github.io/test-post.html",
             "title": "Test Post",
-            "summary": "Hello!",
-            "content_html": "Hello!<img class=\"post__image\" src=\"https://soigne68.github.io/media/posts/1/IMG_20191028_120431.jpg\" alt=\"\" width=\"4608\" height=\"3456\">",
-            "image": "https://soigne68.github.io/media/posts/1/IMG_20191030_143329.jpg",
+            "content_html": "<img class=\"post__image\" src=\"https://soigne68.github.io/media/posts/1/DSC01765.JPG\" alt=\"\" width=\"5184\" height=\"2920\"><img class=\"post__image\" src=\"https://soigne68.github.io/media/posts/1/DSC01969.JPG\" alt=\"\" width=\"5184\" height=\"2920\"><img class=\"post__image\" src=\"https://soigne68.github.io/media/posts/1/IMG_20191030_143329.jpg\" alt=\"\" width=\"323\" height=\"242\"><img class=\"post__image\" src=\"https://soigne68.github.io/media/posts/1/IMG_20191028_120431.jpg\" alt=\"\" width=\"4608\" height=\"3456\">",
+            "image": "https://soigne68.github.io/media/posts/1/DSC01618.JPG",
             "author": {
                 "name": "Shalini Chaudhary"
             },
             "tags": [
             ],
             "date_published": "2020-03-30T21:27:03+05:30",
-            "date_modified": "2020-03-30T21:27:03+05:30"
+            "date_modified": "2020-04-02T19:57:43+05:30"
         }
     ]
 }

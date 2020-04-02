@@ -3,7 +3,7 @@
     <title>Charang Khas</title>
     <link href="https://soigne68.github.io/feed.xml" rel="self" />
     <link href="https://soigne68.github.io" />
-    <updated>2020-03-30T21:35:29+05:30</updated>
+    <updated>2020-04-02T19:58:01+05:30</updated>
     <author>
         <name>Shalini Chaudhary</name>
     </author>
@@ -17,17 +17,12 @@
         <link href="https://soigne68.github.io/test-post.html"/>
         <id>https://soigne68.github.io/test-post.html</id>
 
-        <updated>2020-03-30T21:27:03+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soigne68.github.io/media/posts/1/IMG_20191030_143329.jpg" alt="" />
-                    Hello!
-                ]]>
-            </summary>
+        <updated>2020-04-02T19:57:43+05:30</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://soigne68.github.io/media/posts/1/IMG_20191030_143329.jpg" alt="" />
-                Hello!<img class="post__image" src="https://soigne68.github.io/media/posts/1/IMG_20191028_120431.jpg" alt="" width="4608" height="3456">
+                    <img src="https://soigne68.github.io/media/posts/1/DSC01618.JPG" alt="" />
+                <img class="post__image" src="https://soigne68.github.io/media/posts/1/DSC01765.JPG" alt="" width="5184" height="2920"><img class="post__image" src="https://soigne68.github.io/media/posts/1/DSC01969.JPG" alt="" width="5184" height="2920"><img class="post__image" src="https://soigne68.github.io/media/posts/1/IMG_20191030_143329.jpg" alt="" width="323" height="242"><img class="post__image" src="https://soigne68.github.io/media/posts/1/IMG_20191028_120431.jpg" alt="" width="4608" height="3456">
             ]]>
         </content>
     </entry>
