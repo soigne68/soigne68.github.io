@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Charang Khas</title>
+    <title>Shalini Chaudhary</title>
     <link href="https://soigne68.github.io/feed.xml" rel="self" />
     <link href="https://soigne68.github.io" />
-    <updated>2020-04-02T19:58:01+05:30</updated>
+    <updated>1970-01-01T05:30:00+05:30</updated>
     <author>
         <name>Shalini Chaudhary</name>
     </author>
     <id>https://soigne68.github.io</id>
 
-    <entry>
-        <title>Test Post</title>
-        <author>
-            <name>Shalini Chaudhary</name>
-        </author>
-        <link href="https://soigne68.github.io/test-post.html"/>
-        <id>https://soigne68.github.io/test-post.html</id>
-
-        <updated>2020-04-02T19:57:43+05:30</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soigne68.github.io/media/posts/1/DSC01618.JPG" alt="" />
-                <img class="post__image" src="https://soigne68.github.io/media/posts/1/DSC01765.JPG" alt="" width="5184" height="2920"><img class="post__image" src="https://soigne68.github.io/media/posts/1/DSC01969.JPG" alt="" width="5184" height="2920"><img class="post__image" src="https://soigne68.github.io/media/posts/1/IMG_20191030_143329.jpg" alt="" width="323" height="242"><img class="post__image" src="https://soigne68.github.io/media/posts/1/IMG_20191028_120431.jpg" alt="" width="4608" height="3456">
-            ]]>
-        </content>
-    </entry>
 </feed>
