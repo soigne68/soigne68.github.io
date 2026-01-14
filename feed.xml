@@ -1,32 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Shalini Chaudhary</title>
-    <link href="https://soigne68.github.io/feed.xml" rel="self" />
-    <link href="https://soigne68.github.io" />
-    <updated>2025-07-26T13:59:38+05:30</updated>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Shalini&#x27;s Blog</title>
+    <link href="https://shalinichaudhary.com/feed.xml" rel="self" />
+    <link href="https://shalinichaudhary.com" />
+    <updated>2026-01-14T19:35:47+05:30</updated>
     <author>
         <name>Shalini Chaudhary</name>
     </author>
-    <id>https://soigne68.github.io</id>
+    <id>https://shalinichaudhary.com</id>
 
+    <entry>
+        <title>Whispers of a New City!</title>
+        <author>
+            <name>Shalini Chaudhary</name>
+        </author>
+        <link href="https://shalinichaudhary.com/whispers-of-a-new-city.html"/>
+        <id>https://shalinichaudhary.com/whispers-of-a-new-city.html</id>
+
+        <updated>2025-09-29T19:33:00+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    I chose this city of rains and skies, Where the sun sets slow and the traffic sighs. A land where no one knows my name, Yet every morning feels the same. There is music in the air, A charm of freedom, wild and rare. The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="158" data-end="319">I chose this city of rains and skies,<br data-start="195" data-end="198">Where the sun sets slow and the traffic sighs.<br data-start="244" data-end="247">A land where no one knows my name,<br data-start="281" data-end="284">Yet every morning feels the same.</p>
+<p data-start="321" data-end="555">There is music in the air,<br data-start="358" data-end="361">A charm of freedom, wild and rare.<br data-start="395" data-end="398">The tall trees sway as if they know,<br data-start="434" data-end="437">Shedding red flowers along my road—<br data-start="472" data-end="475">Their welcome soft, their joy profound,<br data-start="514" data-end="517">A carpet of blessings on the ground.</p>
+<p data-start="557" data-end="712">The long, winding roads curl and bend,<br data-start="595" data-end="598">As though in love, they seek to send<br data-start="634" data-end="637">A message tender, calm, and true:<br data-start="670" data-end="673">“This city has been waiting for you.”</p>
+<p data-start="714" data-end="874">But sometimes, silence finds my door,<br data-start="751" data-end="754">Loneliness pools on the wooden floor.<br data-start="791" data-end="794">The language bends like a distant song,<br data-start="833" data-end="836">I watch, I listen, but don’t belong.</p>
+<p data-start="876" data-end="1047">The hours dissolve in the city’s veins,<br data-start="915" data-end="918">The heart grows weary with unseen chains.<br data-start="959" data-end="962">Dreams wait quietly, asking for more,<br data-start="999" data-end="1002">But time slips past like sand on the shore.</p>
+<p data-start="1049" data-end="1199">Still, in the hollow, a comfort lies—<br data-start="1086" data-end="1089">No mask to wear, no borrowed ties.<br data-start="1123" data-end="1126">Here I can breathe, unfettered, free,<br data-start="1163" data-end="1166">A stranger shaping her destiny.</p>
+<p data-start="1049" data-end="1199">And I wonder, perhaps this ache I feel,<br data-start="1046" data-end="1049">Is simply the price of a life made real.<br data-start="1089" data-end="1092">For even the void, when held with grace,<br data-start="1132" data-end="1135">Can bloom into love, can soften this ache.</p>
+<p data-start="1376" data-end="1526">And slowly, I know, the days will weave<br data-start="1415" data-end="1418">A tender fabric I can believe.<br data-start="1448" data-end="1451">The city’s whispers will turn to song,</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/24/b950df92-6479-4f67-ac9b-066e07250a55.jpeg" alt="" width="900" height="1600" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/24/responsive/b950df92-6479-4f67-ac9b-066e07250a55-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/24/responsive/b950df92-6479-4f67-ac9b-066e07250a55-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/24/responsive/b950df92-6479-4f67-ac9b-066e07250a55-md.jpeg 768w"></figure>
+<p data-start="1376" data-end="1526">And I shall find where I belong.</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/24/IMG_3828.jpeg" alt="" width="4032" height="3024" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/24/responsive/IMG_3828-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/24/responsive/IMG_3828-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/24/responsive/IMG_3828-md.jpeg 768w"></figure>
+<p data-start="1376" data-end="1526">There’s peace in the unseen grace,<br>And I absorb it, at its pace!</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/24/IMG_4038.jpeg" alt="" width="7404" height="3788" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/24/responsive/IMG_4038-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/24/responsive/IMG_4038-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/24/responsive/IMG_4038-md.jpeg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A New Dawn in Bangalore</title>
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/a-new-dawn-in-bangalore.html"/>
-        <id>https://soigne68.github.io/a-new-dawn-in-bangalore.html</id>
+        <link href="https://shalinichaudhary.com/a-new-dawn-in-bangalore.html"/>
+        <id>https://shalinichaudhary.com/a-new-dawn-in-bangalore.html</id>
 
-        <updated>2025-07-26T13:59:38+05:30</updated>
-            <summary>
+        <updated>2025-07-11T12:47:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
-                     They say life begins at the end of your comfort zone. I never truly understood this until recently, when I stepped out of everything familiar and comforting to begin a brand-new chapter — in a brand-new city — at the age of 57. It's&hellip;
+                    They say life begins at the end of your comfort zone. I never truly understood this until recently, when I stepped out of everything familiar and comforting to begin a brand-new chapter — in a brand-new city — at the age of 57. It's true&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p data-start="145" data-end="249"> </p>
-<p data-start="270" data-end="785"><strong data-start="270" data-end="327">They say life begins at the end of your comfort zone.</strong><br data-start="327" data-end="330">I never truly understood this until recently, when I stepped out of everything familiar and comforting to begin a brand-new chapter — in a brand-new city — at the age of 57. It's true that life doesn’t always give you what you want, but it often gives you what you need. After 28 years in the education sector, wearing many hats — teacher, leader, mentor, facilitator, confidant — I now find myself in a space I never dared to imagine: a life just for me.</p>
+                <p data-start="270" data-end="785"><strong data-start="270" data-end="327">They say life begins at the end of your comfort zone.</strong><br data-start="327" data-end="330">I never truly understood this until recently, when I stepped out of everything familiar and comforting to begin a brand-new chapter — in a brand-new city — at the age of 57. It's true that life doesn’t always give you what you want, but it often gives you what you need. After 28 years in the education sector, wearing many hats — teacher, leader, mentor, facilitator, confidant — I now find myself in a space I never dared to imagine: a life just for me.</p>
 <p data-start="787" data-end="1172">My journey as an educator began in the humble, sun-kissed town of Sri Ganganagar, Rajasthan. A young woman with dreams in her eyes and a chalk in her hand, I stepped into the world of teaching with more hope than experience. It was there, in the quiet corridors of a small school, that I first tasted the joy of shaping young minds. Those early years taught me resilience and strength.</p>
 <p data-start="1174" data-end="1620">Destiny soon took me to Jodhpur, a city that blended tradition with opportunity. For 15 vibrant years, I thrived. I built not just a career but a legacy of learning. I still remember the gleam in the eyes of my students when they understood something new — those little victories meant the world to me. I gave all I had to that city: my heart, my ideas, my energy. And in return, it gave me confidence, recognition, and a community that loved me.</p>
 <p data-start="1622" data-end="1720">But life is a river — it flows, it curves, and sometimes, it takes you back to where it all began.</p>
@@ -47,7 +78,11 @@
 <p data-start="5421" data-end="5584">So here’s to Bangalore.<br data-start="5444" data-end="5447">To breaking the shackles.<br data-start="5472" data-end="5475">To finding freedom.<br data-start="5494" data-end="5497">To beginning again.<br data-start="5516" data-end="5519">To courage, to grace, and to the joy of becoming “you” once more.</p>
 <p data-start="5586" data-end="5669"><strong data-start="5586" data-end="5617">Namaskara, Namma Bengaluru!</strong><br data-start="5617" data-end="5620">You have no idea how ready I am to call you home.</p>
 <p data-start="5671" data-end="5797"><strong data-start="5671" data-end="5797">And to God — thank You for being so kind. Please keep guiding me, blessing me, and walking beside me — as You always have.</strong></p>
-<hr data-start="5799" data-end="5802">
+<hr data-start="5799" data-end="5802"><footer>
+<div class="post__tag-share">
+<div class="post__share"> </div>
+</div>
+</footer>
             ]]>
         </content>
     </entry>
@@ -56,13 +91,13 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/a-thrilling-odyssey-in-jibhi.html"/>
-        <id>https://soigne68.github.io/a-thrilling-odyssey-in-jibhi.html</id>
+        <link href="https://shalinichaudhary.com/a-thrilling-odyssey-in-jibhi.html"/>
+        <id>https://shalinichaudhary.com/a-thrilling-odyssey-in-jibhi.html</id>
 
-        <updated>2024-01-28T09:16:40+05:30</updated>
-            <summary>
+        <updated>2024-01-28T09:16:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
-                     Nestled in the heart of Himachal Pradesh, the quaint village of Jibhi beckoned us with promises of tranquility and breathtaking landscapes. With my children in tow, we embarked on a journey to this hidden gem, seeking respite from the chaos of everyday life. Little&hellip;
+                    Nestled in the heart of Himachal Pradesh, the quaint village of Jibhi beckoned us with promises of tranquility and breathtaking landscapes. With my children in tow, we embarked on a journey to this hidden gem, seeking respite from the chaos of everyday life. Little did&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -131,16 +166,6 @@
 </div>
 </div>
 </div>
-<div class="mt-1 flex justify-start gap-3 empty:hidden">
-<div class="text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 -ml-1 visible"> </div>
-</div>
-<form class="stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl">
-<div class="relative flex h-full flex-1 items-stretch md:flex-col">
-<div class="flex w-full items-center">
-<div class="overflow-hidden [&amp;:has(textarea:focus)]:border-token-border-xheavy [&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] flex flex-col w-full dark:border-token-border-heavy flex-grow relative border border-token-border-heavy dark:text-white rounded-2xl bg-white dark:bg-gray-800 shadow-[0_0_0_2px_rgba(255,255,255,0.95)] dark:shadow-[0_0_0_2px_rgba(52,53,65,0.95)]"> </div>
-</div>
-</div>
-</form>
             ]]>
         </content>
     </entry>
@@ -149,13 +174,13 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/small-moments-of-joy.html"/>
-        <id>https://soigne68.github.io/small-moments-of-joy.html</id>
+        <link href="https://shalinichaudhary.com/small-moments-of-joy.html"/>
+        <id>https://shalinichaudhary.com/small-moments-of-joy.html</id>
 
-        <updated>2024-01-28T09:10:55+05:30</updated>
-            <summary>
+        <updated>2024-01-18T22:00:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
-                     Today is the day, and now is the moment. We are no longer in an age where we can afford to delay what needs immediate attention. Life may seem like an eternity, but it's actually a short trip. Embrace life, enjoy it to the&hellip;
+                    Today is the day, and now is the moment. We are no longer in an age where we can afford to delay what needs immediate attention. Life may seem like an eternity, but it's actually a short trip. Embrace life, enjoy it to the fullest,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -163,7 +188,6 @@
                 <div class="flex flex-grow flex-col max-w-full">
 <div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="3460a977-3dac-4fd1-a51a-90d45a81ac7e">
 <div class="markdown prose w-full break-words dark:prose-invert light">
-<p> </p>
 <p>Today is the day, and now is the moment. We are no longer in an age where we can afford to delay what needs immediate attention. Life may seem like an eternity, but it's actually a short trip. Embrace life, enjoy it to the fullest, and always be kind.</p>
 </div>
 </div>
@@ -181,9 +205,6 @@
 </div>
 </div>
 </div>
-<div class="mt-1 flex justify-start gap-3 empty:hidden">
-<div class="text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 -ml-1 visible"> </div>
-</div>
 </div>
 </div>
             ]]>
@@ -194,48 +215,21 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/ek-maan-kaa-pyaar.html"/>
-        <id>https://soigne68.github.io/ek-maan-kaa-pyaar.html</id>
+        <link href="https://shalinichaudhary.com/ek-maan-kaa-pyaar.html"/>
+        <id>https://shalinichaudhary.com/ek-maan-kaa-pyaar.html</id>
 
-        <updated>2024-01-18T22:01:27+05:30</updated>
-            <summary>
+        <updated>2023-12-31T10:38:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
-                     माँ की मुस्कान में छुपा है सब कुछ, उसकी आँचल से ही मिलता है अमृत। ज़िन्दगी की तपिश में, गर्मी की धूप में, माँ की बाहों में ही है सुकून। बचपन के खिलौनों का ढेर रखा है उसने, प्यार की छाँवों में ही बढ़ा&hellip;
+                    माँ की मुस्कान में छुपा है सब कुछ, उसकी आँचल से ही मिलता है अमृत। ज़िन्दगी की तपिश में, गर्मी की धूप में, माँ की बाहों में ही है सुकून। बचपन के खिलौनों का ढेर रखा है उसने, प्यार की छाँवों में ही बढ़ा है&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="flex flex-grow flex-col max-w-full">
-<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="e138ddac-3737-4d5d-aa37-abd26b13423c">
-<div class="markdown prose w-full break-words dark:prose-invert light">
-<p> </p>
-<p>माँ की मुस्कान में छुपा है सब कुछ, उसकी आँचल से ही मिलता है अमृत।</p>
-<p>ज़िन्दगी की तपिश में, गर्मी की धूप में, माँ की बाहों में ही है सुकून।</p>
-<p>बचपन के खिलौनों का ढेर रखा है उसने, प्यार की छाँवों में ही बढ़ा है हर पल।</p>
-<p>सोने की कहानियों में, लोरियों की बातों में, माँ की बातों में ही बसा है सब कुछ।</p>
-<p>जब हैरान हाेे हम, जब थक जाते हैं हम, माँ की मुस्कान में ही मिलता है सहारा।</p>
-<p>संघर्षों की राहों में, कठिनाइयों की बातों में, माँ है साथ, हमेशा रहती है पास।</p>
-<p>उसका दिल है सच्चा, उसका स्नेह है पवित्र, अपने बच्चों के लिए हर जज़्बात हैं तैयार ।</p>
-<p>माँ की ममता, उसका संघर्ष, एक साथ लहराते हैं सब पल।</p>
-<p>उड़ानों को चुमते हैं माँ के सपने, बेटी को बनाती है राजकुमारी, बेटे को बनाती है राजा।</p>
-<p>जीवन की सब सीढ़ियों को चढ़ती है माँ, अपने बच्चों के लिए, हर कदम पे मुस्कराती है माँ।</p>
-<p>आसमान से भी ऊँचा है माँ का इरादा, बच्चों के सपनों को करती है पूरा।</p>
-<p>चाहती है बस यही एक कारण, बच्चों की खुशियों में है माँ का जीवन।</p>
-<p>आशा है उसकी की बच्चे हमेशा खुश रहें, सफलता की सीढ़ीयों पे चढ़ते रहें।</p>
-<p>माँ की दुआओं का है साया हमारे सर पे।</p>
-<p>इस आज़ादी की धरा में, बच्चों के लिए है सब कुछ करने की चाहत।</p>
-<p>दिल से है वह निभाती, सभी बंधनों को, बच्चों के लिए है सब कुछ तैयार करने को।</p>
-<p>प्यार में डूबी है वह, हर मुश्किल को हराती, बच्चों के लिए है सब कुछ खोजने को।</p>
-<p>इस निर्भीक माँ का है एक इरादा,  बच्चों को दुनिया की सारी खुशियाँ दिलाने का।</p>
-<p>एक माँ का प्यार, बहुत सी कहानियों का सार।</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://soigne68.github.io/media/posts/23/gallery/58fb0d8d-7432-4e1e-9d24-61a62e134279.jpeg" data-size="900x1600"><img loading="lazy" src="https://soigne68.github.io/media/posts/23/gallery/58fb0d8d-7432-4e1e-9d24-61a62e134279-thumbnail.jpeg" alt="" width="768" height="1365"></a></figure>
-<figure class="gallery__item"><a href="https://soigne68.github.io/media/posts/23/gallery/IMG_8542.jpeg" data-size="4032x2268"><img loading="lazy" src="https://soigne68.github.io/media/posts/23/gallery/IMG_8542-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://soigne68.github.io/media/posts/23/gallery/dd79e3cb-6b88-4060-8c13-94ace4887837.jpeg" data-size="768x1024"><img loading="lazy" src="https://soigne68.github.io/media/posts/23/gallery/dd79e3cb-6b88-4060-8c13-94ace4887837-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
-</div></div>
-</div>
-</div>
-</div>
+                <p>माँ की मुस्कान में छुपा है सब कुछ, उसकी आँचल से ही मिलता है अमृत।<br><br>ज़िन्दगी की तपिश में, गर्मी की धूप में, माँ की बाहों में ही है सुकून।<br><br>बचपन के खिलौनों का ढेर रखा है उसने, प्यार की छाँवों में ही बढ़ा है हर पल।<br><br>सोने की कहानियों में, लोरियों की बातों में, माँ की बातों में ही बसा है सब कुछ।<br><br>जब हैरान हाेे हम, जब थक जाते हैं हम, माँ की मुस्कान में ही मिलता है सहारा।<br><br>संघर्षों की राहों में, कठिनाइयों की बातों में, माँ है साथ, हमेशा रहती है पास।<br><br>उसका दिल है सच्चा, उसका स्नेह है पवित्र, अपने बच्चों के लिए हर जज़्बात हैं तैयार ।<br><br>माँ की ममता, उसका संघर्ष, एक साथ लहराते हैं सब पल।<br><br>उड़ानों को चुमते हैं माँ के सपने, बेटी को बनाती है राजकुमारी, बेटे को बनाती है राजा।<br><br>जीवन की सब सीढ़ियों को चढ़ती है माँ, अपने बच्चों के लिए, हर कदम पे मुस्कराती है माँ।<br><br>आसमान से भी ऊँचा है माँ का इरादा, बच्चों के सपनों को करती है पूरा।<br><br>चाहती है बस यही एक कारण, बच्चों की खुशियों में है माँ का जीवन।<br><br>आशा है उसकी की बच्चे हमेशा खुश रहें, सफलता की सीढ़ीयों पे चढ़ते रहें।<br><br>माँ की दुआओं का है साया हमारे सर पे।<br><br>इस आज़ादी की धरा में, बच्चों के लिए है सब कुछ करने की चाहत।<br><br>दिल से है वह निभाती, सभी बंधनों को, बच्चों के लिए है सब कुछ तैयार करने को।<br><br>प्यार में डूबी है वह, हर मुश्किल को हराती, बच्चों के लिए है सब कुछ खोजने को।<br><br>इस निर्भीक माँ का है एक इरादा,  बच्चों को दुनिया की सारी खुशियाँ दिलाने का।<br><br>एक माँ का प्यार, बहुत सी कहानियों का सार।</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/20/58fb0d8d-7432-4e1e-9d24-61a62e134279.jpeg" alt="" width="900" height="1600" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/20/responsive/58fb0d8d-7432-4e1e-9d24-61a62e134279-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/20/responsive/58fb0d8d-7432-4e1e-9d24-61a62e134279-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/20/responsive/58fb0d8d-7432-4e1e-9d24-61a62e134279-md.jpeg 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/20/IMG_8542.jpeg" alt="" width="4032" height="2268" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/20/responsive/IMG_8542-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/20/responsive/IMG_8542-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/20/responsive/IMG_8542-md.jpeg 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/20/dd79e3cb-6b88-4060-8c13-94ace4887837.jpeg" alt="" width="768" height="1024" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/20/responsive/dd79e3cb-6b88-4060-8c13-94ace4887837-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/20/responsive/dd79e3cb-6b88-4060-8c13-94ace4887837-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/20/responsive/dd79e3cb-6b88-4060-8c13-94ace4887837-md.jpeg 768w"></figure>
             ]]>
         </content>
     </entry>
@@ -244,38 +238,36 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/friends-romans-countrymen.html"/>
-        <id>https://soigne68.github.io/friends-romans-countrymen.html</id>
+        <link href="https://shalinichaudhary.com/friends-romans-countrymen.html"/>
+        <id>https://shalinichaudhary.com/friends-romans-countrymen.html</id>
+        <media:content url="https://shalinichaudhary.com/media/posts/19/DSC02876-2.jpeg" medium="image" />
 
-        <updated>2023-06-11T21:54:43+05:30</updated>
-            <summary>
+        <updated>2023-02-12T09:31:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://soigne68.github.io/media/posts/22/DSC02876-2.jpeg" alt="" />
+                        <img src="https://shalinichaudhary.com/media/posts/19/DSC02876-2.jpeg" alt="" />
                     Friends, Romans, Countrymen! These words used to echo in my mind for decades and when I could speak these words standing in the Roman theater, it felt like a waking dream wish fulfilment. November 16th, 2022, was the date that we embarked on the journey.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://soigne68.github.io/media/posts/22/DSC02876-2.jpeg" alt="" />
+                    <p><img src="https://shalinichaudhary.com/media/posts/19/DSC02876-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Friends, Romans, Countrymen!</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/DSC02723.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/DSC02723-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/DSC02723-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/DSC02723-md.jpeg 768w"  alt="" width="618" height="348"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/DSC02723-md.jpeg" alt="" width="768" height="433" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/DSC02723-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/DSC02723-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/DSC02723-md-md.jpeg 768w"></figure>
 <p>These words used to echo in my mind for decades and when I could speak these words standing in the Roman theater, it felt like a waking dream wish fulfilment.</p>
 <p>November 16<sup>th</sup>, 2022, was the date that we embarked on the journey. We reached Amman, capital city of this Middle Eastern country – Jordan, in the wee hours of 17<sup>th</sup> November. It was quite an overwhelming moment. Everything was smooth till our landing and then the Airport authorities thought of picking me and my daughter (Aditi) for complete scrutinizing of documents and purpose of our visit. Although, we had all the papers but being in a different country gives you the goosebumps. To add to our plight, we had a language barrier. Google translator app came to our rescue, and we could convince the officials of our visit. Now, to add more to our experience, it turned out that our luggage hadn’t reached Amman. We had to wait for two days to get our luggage. We had only our handbags with us, and we went to the hotel. Well, now with hindsight, I feel that was an interesting experience. Living life with minimalistic things:).</p>
 <p>We stayed in Arab Tower Hotel in Amman. It was a good hotel with pleasing and helpful staff members. And the best part was that we could see the Roman theater from our room. There was an interesting mix of graffiti and strange street art on the walls of buildings. We had a stay of four days in Amman. As Abhishek (my son)had already visited the place, he made a remarkable itinerary to get the best out of these four days. First, we went to see the Amman Citadel National Historic Site. From there we could see the beautiful panoramic view of the city. It has the temple of Hercules, Byzantine Church, the Umayyad Palace, and the Jordan Archaeological Museum. There were colossal remains of the great statue of the Roman Hero – Hercules, including his hand and pillars. There were inscriptions all around to tell us that it dates to 160 CE. The Palace was built during the Umayyad dynasty and is mostly in ruins due to an earthquake. The Byzantine church had its pillars; mosaic covered floors and floor plan. It was a very captivating sight to behold such precision and art in its basic form. We couldn’t go to the museum but had a fair deal of archeological sites in our list.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/FullSizeRender.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/FullSizeRender-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/FullSizeRender-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/FullSizeRender-md.jpeg 768w"  alt="" width="619" height="349"></figure>
-<figure class="post__image align-center"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/DSC02729.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/DSC02729-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/DSC02729-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/DSC02729-md.jpeg 768w"  alt="" width="620" height="349"></figure>
-<p>Next day we went to the Roman theater early morning before leaving for Jerash. The theater was built during the reign of Antoninus Pius, when the city was under the control of Romans and was called Philadelphia. The curved stairs gave a magnanimous view. It could accommodate 6000 people at a time. It had been my long pending desire to visit Roman Theater and once it got fulfilled, it was an exhilarating moment for me. There were two museums adjacent to the theater on both sides. One was Jordanian Museum of Popular Traditions and other one was Jordan Folklore Museum. It really gave a sense of accomplishment.</p>
-<p> Jerash city is in ruins, but it’s preserved in the best possible manner. Luckily, it’s not crowded with tourists, and we could visit each site with ease. The temple of Artemis was built inside a gigantic courtyard. The Oval Forum is also an iconic ruin with a huge line of high columns, up to 8 mt. height. The Northern and Southern theaters provide a marvelous view. There was a Hippodrome within the ruins of Jerash, which was built for Roman horse chariots. It’s a spectacular experience of witnessing history that’s left behind. The temple of Zeus was another site which was ruined due to an earthquake.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/DSC02747.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/DSC02747-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/DSC02747-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/DSC02747-md.jpeg 768w"  alt="" width="626" height="353"></figure>
-<figure class="post__image align-center"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/IMG_4709.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/IMG_4709-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/IMG_4709-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/IMG_4709-md.jpeg 768w"  alt="" width="625" height="469"></figure>
-<p>Next day, we went to the Jordan Syria border and had a good experience of meeting people of two different nationalities. Inspite of the language barrier, we could feel the warmth of their heart. In the evening we went to Gadara and Irbid, where we could see two nations  Egypt and Israel in front of us.Having a sip of Bedouin coffee watching these two nations was fantastic. Last day in Amman was devoted to the Dead Sea. It’s  the saltiest lake along with being the lowest water body on earth. It was an amazing experience with the vast expanse of the Dead Sea on one side and Jordanian hills on the other. Taking a car for all these days was the best decision and such road trips add more to the overall feel. The weather was perfect for our visit and we could successfully float in the water. I remember, when I was stepping in the water and it took me in for a second, I had the scariest of all experiences. I knew that I won’t drown, but the love of life, you know…Later on , I floated (body’s buoyancy),  for half an hour in the sea and thoroughly enjoyed. Best water experience ever (and the only one too;).</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://soigne68.github.io/media/posts/22/gallery/IMG_5434.jpeg" data-size="4032x2268"><img loading="lazy" src="https://soigne68.github.io/media/posts/22/gallery/IMG_5434-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
-</div></div>
-<figure class="post__image"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/IMG_4987.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/IMG_4987-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/IMG_4987-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/IMG_4987-md.jpeg 768w"  alt="" width="655" height="491"></figure>
-<p> Before I move ahead, the foodie in me must mention the Rainbow Street and Mijana Café, which has a part of my heart left there. It serves the world’s best bread and hummus. We couldn’t stop ourselves from going there again and again. Another interesting eating joint was Hashem.  Falafel, kunafa , baklava, harrisa, mansaf and the list goes on. The Bedouin coffee was an added extravaganza to the sumptuous meal everytime.</p>
-<figure class="post__image"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/IMG_5365.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/IMG_5365-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/IMG_5365-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/IMG_5365-md.jpeg 768w"  alt="" width="4032" height="2268"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://soigne68.github.io/media/posts/22/IMG_4950.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/22/responsive/IMG_4950-xs.jpeg 300w ,https://soigne68.github.io/media/posts/22/responsive/IMG_4950-sm.jpeg 480w ,https://soigne68.github.io/media/posts/22/responsive/IMG_4950-md.jpeg 768w"  alt="" width="666" height="375"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/FullSizeRender-md.jpeg" alt="" width="768" height="432" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/FullSizeRender-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/FullSizeRender-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/FullSizeRender-md-md.jpeg 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/DSC02729-md.jpeg" alt="" width="768" height="433" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/DSC02729-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/DSC02729-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/DSC02729-md-md.jpeg 768w"></figure>
+<p>Next day we went to the Roman theater early morning before leaving for Jerash. The theater was built during the reign of Antoninus Pius, when the city was under the control of Romans and was called Philadelphia. The curved stairs gave a magnanimous view. It could accommodate 6000 people at a time. It had been my long pending desire to visit Roman Theater and once it got fulfilled, it was an exhilarating moment for me. There were two museums adjacent to the theater on both sides. One was Jordanian Museum of Popular Traditions and other one was Jordan Folklore Museum. It really gave a sense of accomplishment.<br><br> Jerash city is in ruins, but it’s preserved in the best possible manner. Luckily, it’s not crowded with tourists, and we could visit each site with ease. The temple of Artemis was built inside a gigantic courtyard. The Oval Forum is also an iconic ruin with a huge line of high columns, up to 8 mt. height. The Northern and Southern theaters provide a marvelous view. There was a Hippodrome within the ruins of Jerash, which was built for Roman horse chariots. It’s a spectacular experience of witnessing history that’s left behind. The temple of Zeus was another site which was ruined due to an earthquake.</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/DSC02747-md.jpeg" alt="" width="768" height="433" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/DSC02747-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/DSC02747-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/DSC02747-md-md.jpeg 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/IMG_4709-md.jpeg" alt="" width="768" height="576" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/IMG_4709-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_4709-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_4709-md-md.jpeg 768w"></figure>
+<p>Next day, we went to the Jordan Syria border and had a good experience of meeting people of two different nationalities. Inspite of the language barrier, we could feel the warmth of their heart. In the evening we went to Gadara and Irbid, where we could see two nations  Egypt and Israel in front of us.Having a sip of Bedouin coffee watching these two nations was fantastic. Last day in Amman was devoted to the Dead Sea. It’s  the saltiest lake along with being the lowest water body on earth. It was an amazing experience with the vast expanse of the Dead Sea on one side and Jordanian hills on the other. Taking a car for all these days was the best decision and such road trips add more to the overall feel. The weather was perfect for our visit and we could successfully float in the water. I remember, when I was stepping in the water and it took me in for a second, I had the scariest of all experiences. I knew that I won’t drown, but the love of life, you know…Later on , I floated (body’s buoyancy),  for half an hour in the sea and thoroughly enjoyed. Best water experience ever (and the only one too;).</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/IMG_5434.jpeg" alt="" width="4032" height="2268" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/IMG_5434-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_5434-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_5434-md.jpeg 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/IMG_4987-md.jpeg" alt="" width="768" height="576" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/IMG_4987-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_4987-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_4987-md-md.jpeg 768w"></figure>
+<p>Before I move ahead, the foodie in me must mention the Rainbow Street and Mijana Café, which has a part of my heart left there. It serves the world’s best bread and hummus. We couldn’t stop ourselves from going there again and again. Another interesting eating joint was Hashem.  Falafel, kunafa , baklava, harrisa, mansaf and the list goes on. The Bedouin coffee was an added extravaganza to the sumptuous meal everytime.</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/IMG_5365-md.jpeg" alt="" width="768" height="432" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/IMG_5365-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_5365-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_5365-md-md.jpeg 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/19/IMG_4950-md.jpeg" alt="" width="768" height="432" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/19/responsive/IMG_4950-md-xs.jpeg 300w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_4950-md-sm.jpeg 480w ,https://shalinichaudhary.com/media/posts/19/responsive/IMG_4950-md-md.jpeg 768w"></figure>
 <p>Well, this is the end of part 1 of our Jordan trip. See you soon in the next episode of Petra vist!</p>
             ]]>
         </content>
@@ -285,51 +277,18 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/vo-bhor-ab-khaan.html"/>
-        <id>https://soigne68.github.io/vo-bhor-ab-khaan.html</id>
+        <link href="https://shalinichaudhary.com/vo-bhor-ab-khaan.html"/>
+        <id>https://shalinichaudhary.com/vo-bhor-ab-khaan.html</id>
 
-        <updated>2022-10-14T22:24:36+05:30</updated>
-            <summary>
+        <updated>2022-10-14T22:20:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
                     जाने कहाँ गयी वो भोर जो भर देती थी सबका आँचल , एक मीठी सी मनुहार के साथ, एक प्यारे से एहसास के साथ I वो हसरतों की सुबह ,वो कसरतों की सुबह , वो 'ॐ' की झंकार ,वो बड़ों की हुंकार, जो समेट लेती&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>जाने कहाँ गयी वो भोर </p>
-<p>जो भर देती थी सबका आँचल ,</p>
-<p>एक मीठी सी मनुहार के साथ, </p>
-<p>एक प्यारे से एहसास के साथ I </p>
-<p> </p>
-<p>वो हसरतों की सुबह ,वो कसरतों की सुबह ,</p>
-<p>वो 'ॐ' की झंकार ,वो बड़ों की हुंकार, </p>
-<p>जो समेट लेती थी अपने आप में ,</p>
-<p>और बिखरा जाती थी अपना जादू I </p>
-<p> </p>
-<p>भोर तो आज भी होती है ,</p>
-<p>खोलती है एक नया अध्याय, </p>
-<p>पर अब जैसे सब </p>
-<p>सिमट सा गया है I </p>
-<p> </p>
-<p>कुछ सूख सी गयी है ,</p>
-<p>वो प्रेम की बहती अविरल धारा I </p>
-<p>हर कोई मसरूफ है </p>
-<p>पाने को एक नया आयाम I </p>
-<p> </p>
-<p>बहुत परायापन रहने लगा है </p>
-<p>अब अपनेपन में, </p>
-<p>बहुत कुछ पाने की चाह में </p>
-<p>क़ैद हैं सब अपने आप में I </p>
-<p> </p>
-<p>जो हम यह समझ लें ,</p>
-<p>कि बाहर से मुक्त हो </p>
-<p>भीतर में समाना ही </p>
-<p>जीवन का सार है ,</p>
-<p>तो लौट आएगी वो भोर, </p>
-<p>होगा नया उजाला ,</p>
-<p>बिखर जाएगा एक जादू सा </p>
-<p>इस जीवन में , और हर </p>
-<p>सुबह को मिलेगी एक नयी पहचान!</p>
+                <p>जाने कहाँ गयी वो भोर <br><br>जो भर देती थी सबका आँचल ,<br><br>एक मीठी सी मनुहार के साथ, <br><br>एक प्यारे से एहसास के साथ I <br><br> <br><br>वो हसरतों की सुबह ,वो कसरतों की सुबह ,<br><br>वो 'ॐ' की झंकार ,वो बड़ों की हुंकार, <br><br>जो समेट लेती थी अपने आप में ,<br><br>और बिखरा जाती थी अपना जादू I <br><br> <br><br>भोर तो आज भी होती है ,<br><br>खोलती है एक नया अध्याय, <br><br>पर अब जैसे सब <br><br>सिमट सा गया है I <br><br> <br><br>कुछ सूख सी गयी है ,<br><br>वो प्रेम की बहती अविरल धारा I <br><br>हर कोई मसरूफ है <br><br>पाने को एक नया आयाम I <br><br> <br><br>बहुत परायापन रहने लगा है <br><br>अब अपनेपन में, <br><br>बहुत कुछ पाने की चाह में <br><br>क़ैद हैं सब अपने आप में I <br><br> <br><br>जो हम यह समझ लें ,<br><br>कि बाहर से मुक्त हो <br><br>भीतर में समाना ही <br><br>जीवन का सार है ,<br><br>तो लौट आएगी वो भोर, <br><br>होगा नया उजाला ,<br><br>बिखर जाएगा एक जादू सा <br><br>इस जीवन में , और हर <br><br>सुबह को मिलेगी एक नयी पहचान!</p>
             ]]>
         </content>
     </entry>
@@ -338,26 +297,22 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/beauty-personified.html"/>
-        <id>https://soigne68.github.io/beauty-personified.html</id>
+        <link href="https://shalinichaudhary.com/beauty-personified.html"/>
+        <id>https://shalinichaudhary.com/beauty-personified.html</id>
 
-        <updated>2022-10-14T21:57:41+05:30</updated>
-            <summary>
+        <updated>2022-10-14T15:56:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
                     It's time to share my experience of visiting Taj mahal and nearby areas (something that I had promised two posts back:) ). That trip was like a magical experience. Since my childhood, I had a desire to visit Taj Mahal (among other places). One fine&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>It's time to share my experience of visiting Taj mahal and nearby areas (something that I had promised two posts back:) ).  That trip was like a magical experience. Since my childhood, I had a desire to visit Taj Mahal (among other places). One fine day my son announced that we are going to Agra. To be honest, my first expression was of disbelief as we had a plan to go towards the eastern side covering Amritsar, Fazilka and Kartarpur. Going to Agra was like taking a detour but still we did it. Visiting Agra was like a dream come true situation. It was truly an intoxicating moment, when I saw the grand monument of love in all its glory in the morning hours of 28th June.  </p>
-<p>I was speechless and completely blown by its beauty. Undoubtedly, it's the best example of Mughal architecture. The milky white structure was loud in its silence. The magnificent Yamuna river  in the back side added to its charm. It was disturbing to see that the walls were distorted due to unnecessary scribbling by people but then I believe if you can't change something, live with it. I loved each moment that was spent there and while I am writing about it (after around three months), it feels like I am visiting the place again. I have brought that charm with me and live it each day. Taj Mahal is not a place, it's an emotion and anyone who has visited it once with a purity of heart and a sincere desire to be a part of that history can never escape from the indulgence. It's a commitment. It clearly exhibits that love can move mountains. </p>
-<p>We had also visited Akbar's tomb and Fatehpur Sikri. Spread in around 119 acres, the tomb leaves you spell bound with its beauty and architecture. I was completely immersed and mesmerised by the sheer elegance of the place. Visiting his grave in the basement was nothing short of a revealation. One has to pass through a small tunnel kind of structure to reach the grave. The walls are painted in different colours and the whole ambience is breathtaking. The quietness of the place quietens everything and leaves you thinking about the mortality of life. I also came to know that Akbar had designed the architecture of his tomb and the work started in his lifetime. Quite impressive! ...His interest of amalgamating various religions and bringing out the best is aptly portrayed there. We also went to the Kaanch mahal and Jodha Bai's palace. The intricate design and simplicity of the place was par excellence.</p>
-<p>Overall, visiting Agra was a great experience and driving on the Yamuna expressway was an added charm.</p>
-<p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://soigne68.github.io/media/posts/20/551AC28B-FD46-4B09-B58A-54D5C3686FB6.JPEG" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/20/responsive/551AC28B-FD46-4B09-B58A-54D5C3686FB6-xs.JPEG 300w ,https://soigne68.github.io/media/posts/20/responsive/551AC28B-FD46-4B09-B58A-54D5C3686FB6-sm.JPEG 480w ,https://soigne68.github.io/media/posts/20/responsive/551AC28B-FD46-4B09-B58A-54D5C3686FB6-md.JPEG 768w"  alt="" width="3241" height="1956"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://soigne68.github.io/media/posts/20/985CE79E-64CC-4BB2-B979-D520FA2AA33C.JPEG" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/20/responsive/985CE79E-64CC-4BB2-B979-D520FA2AA33C-xs.JPEG 300w ,https://soigne68.github.io/media/posts/20/responsive/985CE79E-64CC-4BB2-B979-D520FA2AA33C-sm.JPEG 480w ,https://soigne68.github.io/media/posts/20/responsive/985CE79E-64CC-4BB2-B979-D520FA2AA33C-md.JPEG 768w"  alt="" width="3346" height="2194"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://soigne68.github.io/media/posts/20/B0BF7AE6-0183-40EE-987C-FD78C0BAA685.JPEG" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/20/responsive/B0BF7AE6-0183-40EE-987C-FD78C0BAA685-xs.JPEG 300w ,https://soigne68.github.io/media/posts/20/responsive/B0BF7AE6-0183-40EE-987C-FD78C0BAA685-sm.JPEG 480w ,https://soigne68.github.io/media/posts/20/responsive/B0BF7AE6-0183-40EE-987C-FD78C0BAA685-md.JPEG 768w"  alt="" width="3387" height="2241"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://soigne68.github.io/media/posts/20/E08DD7CD-0F24-491E-B2E3-7114352E8A63.JPEG" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://soigne68.github.io/media/posts/20/responsive/E08DD7CD-0F24-491E-B2E3-7114352E8A63-xs.JPEG 300w ,https://soigne68.github.io/media/posts/20/responsive/E08DD7CD-0F24-491E-B2E3-7114352E8A63-sm.JPEG 480w ,https://soigne68.github.io/media/posts/20/responsive/E08DD7CD-0F24-491E-B2E3-7114352E8A63-md.JPEG 768w"  alt="" width="3466" height="1475"></figure>
+                <p>It's time to share my experience of visiting Taj mahal and nearby areas (something that I had promised two posts back:) ).  That trip was like a magical experience. Since my childhood, I had a desire to visit Taj Mahal (among other places). One fine day my son announced that we are going to Agra. To be honest, my first expression was of disbelief as we had a plan to go towards the eastern side covering Amritsar, Fazilka and Kartarpur. Going to Agra was like taking a detour but still we did it. Visiting Agra was like a dream come true situation. It was truly an intoxicating moment, when I saw the grand monument of love in all its glory in the morning hours of 28th June.  <br><br>I was speechless and completely blown by its beauty. Undoubtedly, it's the best example of Mughal architecture. The milky white structure was loud in its silence. The magnificent Yamuna river  in the back side added to its charm. It was disturbing to see that the walls were distorted due to unnecessary scribbling by people but then I believe if you can't change something, live with it. I loved each moment that was spent there and while I am writing about it (after around three months), it feels like I am visiting the place again. I have brought that charm with me and live it each day. Taj Mahal is not a place, it's an emotion and anyone who has visited it once with a purity of heart and a sincere desire to be a part of that history can never escape from the indulgence. It's a commitment. It clearly exhibits that love can move mountains. <br><br>We had also visited Akbar's tomb and Fatehpur Sikri. Spread in around 119 acres, the tomb leaves you spell bound with its beauty and architecture. I was completely immersed and mesmerised by the sheer elegance of the place. Visiting his grave in the basement was nothing short of a revealation. One has to pass through a small tunnel kind of structure to reach the grave. The walls are painted in different colours and the whole ambience is breathtaking. The quietness of the place quietens everything and leaves you thinking about the mortality of life. I also came to know that Akbar had designed the architecture of his tomb and the work started in his lifetime. Quite impressive! ...His interest of amalgamating various religions and bringing out the best is aptly portrayed there. We also went to the Kaanch mahal and Jodha Bai's palace. The intricate design and simplicity of the place was par excellence.<br><br>Overall, visiting Agra was a great experience and driving on the Yamuna expressway was an added charm.</p>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/17/551AC28B-FD46-4B09-B58A-54D5C3686FB6-md.JPEG" alt="" width="768" height="464" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/17/responsive/551AC28B-FD46-4B09-B58A-54D5C3686FB6-md-xs.JPEG 300w ,https://shalinichaudhary.com/media/posts/17/responsive/551AC28B-FD46-4B09-B58A-54D5C3686FB6-md-sm.JPEG 480w ,https://shalinichaudhary.com/media/posts/17/responsive/551AC28B-FD46-4B09-B58A-54D5C3686FB6-md-md.JPEG 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/17/985CE79E-64CC-4BB2-B979-D520FA2AA33C-md.JPEG" alt="" width="768" height="504" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/17/responsive/985CE79E-64CC-4BB2-B979-D520FA2AA33C-md-xs.JPEG 300w ,https://shalinichaudhary.com/media/posts/17/responsive/985CE79E-64CC-4BB2-B979-D520FA2AA33C-md-sm.JPEG 480w ,https://shalinichaudhary.com/media/posts/17/responsive/985CE79E-64CC-4BB2-B979-D520FA2AA33C-md-md.JPEG 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/17/B0BF7AE6-0183-40EE-987C-FD78C0BAA685-md.JPEG" alt="" width="768" height="508" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/17/responsive/B0BF7AE6-0183-40EE-987C-FD78C0BAA685-md-xs.JPEG 300w ,https://shalinichaudhary.com/media/posts/17/responsive/B0BF7AE6-0183-40EE-987C-FD78C0BAA685-md-sm.JPEG 480w ,https://shalinichaudhary.com/media/posts/17/responsive/B0BF7AE6-0183-40EE-987C-FD78C0BAA685-md-md.JPEG 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://shalinichaudhary.com/media/posts/17/E08DD7CD-0F24-491E-B2E3-7114352E8A63-md.JPEG" alt="" width="768" height="327" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://shalinichaudhary.com/media/posts/17/responsive/E08DD7CD-0F24-491E-B2E3-7114352E8A63-md-xs.JPEG 300w ,https://shalinichaudhary.com/media/posts/17/responsive/E08DD7CD-0F24-491E-B2E3-7114352E8A63-md-sm.JPEG 480w ,https://shalinichaudhary.com/media/posts/17/responsive/E08DD7CD-0F24-491E-B2E3-7114352E8A63-md-md.JPEG 768w"></figure>
             ]]>
         </content>
     </entry>
@@ -366,11 +321,11 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/vo-phrem-kii-khaanii.html"/>
-        <id>https://soigne68.github.io/vo-phrem-kii-khaanii.html</id>
+        <link href="https://shalinichaudhary.com/vo-phrem-kii-khaanii.html"/>
+        <id>https://shalinichaudhary.com/vo-phrem-kii-khaanii.html</id>
 
-        <updated>2022-09-13T22:53:27+05:30</updated>
-            <summary>
+        <updated>2022-09-13T22:53:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
                     ख़ाली दीवार पर टंगा वो फ़्रेम, और फ़्रेम में टंगा वो जीवन, जो ताउम्र लड़ता रहा अपनों के लिए नहीं बता पाता अपनी दुशवारियाँ I नहीं बता पाता उस बेरंग जीवन की कहानी, जो भरने चला था रंग चहुँ ओर I चाहत थी उसकी पाई&hellip;
                 ]]>
@@ -414,7 +369,7 @@
 <p><em>महसूस करोगे वो धड़कन,</em></p>
 <p><em>मुस्कुराओगे उस आयोजन पर,</em></p>
 <p><em>और फिर से चले जाओगे </em></p>
-<p><em>उसी फ़्रेम की दुनिया में I </em></p>
+<p><em>उसी फ़्रेम की दुनिया में I</em></p>
             ]]>
         </content>
     </entry>
@@ -423,60 +378,18 @@
         <author>
             <name>Shalini Chaudhary</name>
         </author>
-        <link href="https://soigne68.github.io/haan-main-bdl-gyii-huun.html"/>
-        <id>https://soigne68.github.io/haan-main-bdl-gyii-huun.html</id>
+        <link href="https://shalinichaudhary.com/haan-main-bdl-gyii-huun.html"/>
+        <id>https://shalinichaudhary.com/haan-main-bdl-gyii-huun.html</id>
 
-        <updated>2022-09-13T22:55:19+05:30</updated>
-            <summary>
+        <updated>2022-09-13T22:28:00+05:30</updated>
+            <summary type="html">
                 <![CDATA[
                     अब नहीं तकती राह मैं हर हाँ की, नहीं करती इंतज़ार सहमति का, मुझे फ़ख़्र है अपने आप पर ग़ुरूर है अपने ज़मीर पर, हाँ, मैं बदल गयी हूँ I नहीं है चाह मुझे हमदर्दी की, ना इच्छा है सहानुभूति की, मैं हूँ अपने आप&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>अब नहीं तकती राह मैं हर हाँ की,</p>
-<p>नहीं करती इंतज़ार सहमति का,</p>
-<p>मुझे फ़ख़्र है अपने आप पर </p>
-<p>ग़ुरूर है अपने ज़मीर पर,</p>
-<p>हाँ, मैं बदल गयी हूँ I </p>
-<p> </p>
-<p>नहीं है चाह मुझे हमदर्दी की,</p>
-<p>ना इच्छा है सहानुभूति की,</p>
-<p>मैं हूँ अपने आप में मशगूल </p>
-<p>बेक़रार हूँ करने को एक नया शोर </p>
-<p>हाँ, मैं बदल गयी हूँ I </p>
-<p> </p>
-<p>शोर जो सुनाई दे बहरे को,</p>
-<p>दिखाई दे जो एक अंधे को,</p>
-<p>ठहरा दे  साँसे जो इस ज़माने की </p>
-<p>तोड़ दे हर बंदिश पैमाने की </p>
-<p>हाँ, मैं बदल गयी हूँ I  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>To teach is to learn!</title>
-        <author>
-            <name>Shalini Chaudhary</name>
-        </author>
-        <link href="https://soigne68.github.io/to-teach-is-to-learn.html"/>
-        <id>https://soigne68.github.io/to-teach-is-to-learn.html</id>
-
-        <updated>2022-09-06T21:29:42+05:30</updated>
-            <summary>
-                <![CDATA[
-                    This Teachers’ Day I want to thank all those who have taught me- formally or informally, directly or indirectly, willingly or unwillingly. Whatever I have achieved till date is all because of their presence in my life. I strongly believe that learning never stops and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This Teachers’ Day I want to thank all those who have taught me- formally or informally, directly or indirectly, willingly or unwillingly. Whatever I have achieved till date  is all because of their presence in my life. I strongly believe that learning never stops and even after more than five decades of my life I am a curious learner. I have formally left the job in education sector and started my career as an entrepreneur. I am learning the business nuances and thank my children for guiding me at each step, whether it's product management or marketing strategy.</p>
-<p> </p>
-<p>My blessings to all my students, who have also helped me in shaping my personality. The students for whom I was a Principal, an English teacher, a Class teacher or a Mentor. It's an amazing feeling to walk down the memory lane and recall the innocent faces of all the children with whom I started my career in 1994. Since then, there is no looking back and I have tutored hundreds and thousands of students in different capacities. Nurturing their high level of energy with utmost passion and dedication and helping them channelize it in a productive manner has always been a challenging (seriously…) and rewarding task. This day gets more significant because many of my old students who are doing great in their lives as engineers, doctors, administrators, defence personnel, businessman or …(list is too long😋) take out time from their schedule and thank me for helping them shape their lives in a better manner. Since morning, I am getting messages from my students and teachers expressing their love and affection. I am truly humbled and overwhelmed. It gives even more sense of responsibility to keep doing my best and raise the bar of excellence. </p>
-<p> </p>
-<p> I wish to suggest the teaching fraternity that you have a very significant role to play in the lives of children. Teaching is not a profession. It’s a Bhakti (Meditation). You are shaping the future of the world. Try to be a role model for them. They look at you with utmost faith which even surpasses the parents’ impact. Always practice before you preach. Promote good values, punctiliousness and love for discipline. You have a gift of influencing lives both inside and outside of the classroom. Never give up on your students. This is one such profession, which is a win-win situation for both the stakeholders- teachers and students. Students get the knowledge from their teachers and teachers also learn many things while teaching. </p>
-<p>Happy teaching! May we all help each other to become a better version of ourselves!</p>
-<p>Wishing you all health, happiness and success!</p>
+                <p>अब नहीं तकती राह मैं हर हाँ की,<br><br>नहीं करती इंतज़ार सहमति का,<br><br>मुझे फ़ख़्र है अपने आप पर <br><br>ग़ुरूर है अपने ज़मीर पर,<br><br>हाँ, मैं बदल गयी हूँ I <br><br> <br><br>नहीं है चाह मुझे हमदर्दी की,<br><br>ना इच्छा है सहानुभूति की,<br><br>मैं हूँ अपने आप में मशगूल <br><br>बेक़रार हूँ करने को एक नया शोर <br><br>हाँ, मैं बदल गयी हूँ I <br><br> <br><br>शोर जो सुनाई दे बहरे को,<br><br>दिखाई दे जो एक अंधे को,<br><br>ठहरा दे  साँसे जो इस ज़माने की <br><br>तोड़ दे हर बंदिश पैमाने की <br><br>हाँ, मैं बदल गयी हूँ I</p>
             ]]>
         </content>
     </entry>
